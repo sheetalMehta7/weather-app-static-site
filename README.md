@@ -11,4 +11,4 @@ Link: https://weather-app-by-she.netlify.app/
 
 ## Landing Page
 
-![This is site Image]()
+![This is site Image](https://github.com/sheetalMehta7/weather-app-static-site/blob/main/app-video.gif)
