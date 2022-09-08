@@ -7,7 +7,7 @@
 
 
 ## Live Demo Link:
-Link: https://weather-app-by-she.netlify.app/
+Link: https://weather-app-static-site.netlify.app/
 
 ## Landing Page
 
